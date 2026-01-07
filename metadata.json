@@ -1,0 +1,5 @@
+{
+  "name": "CEA Sales Analytics Dashboard",
+  "description": "A comprehensive sales analysis dashboard for multiple branches, featuring channel performance, order metrics, and website conversion tracking.",
+  "requestFramePermissions": []
+}
